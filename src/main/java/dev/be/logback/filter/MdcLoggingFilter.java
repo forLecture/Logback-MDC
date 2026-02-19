@@ -1,4 +1,4 @@
-package com.example.demo.filter;
+package dev.be.logback.filter;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
